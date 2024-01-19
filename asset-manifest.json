@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Arun-Portfolio-IT/static/css/main.8b448dfc.css",
-    "main.js": "/Arun-Portfolio-IT/static/js/main.bee27023.js",
+    "main.css": "/Arun-Portfolio-IT/static/css/main.a8a9f4c3.css",
+    "main.js": "/Arun-Portfolio-IT/static/js/main.915f4477.js",
     "static/js/787.311f144a.chunk.js": "/Arun-Portfolio-IT/static/js/787.311f144a.chunk.js",
+    "static/media/arun 04122023.pdf": "/Arun-Portfolio-IT/static/media/arun 04122023.763fdc585f7f9b9ec971.pdf",
     "index.html": "/Arun-Portfolio-IT/index.html",
-    "main.8b448dfc.css.map": "/Arun-Portfolio-IT/static/css/main.8b448dfc.css.map",
-    "main.bee27023.js.map": "/Arun-Portfolio-IT/static/js/main.bee27023.js.map",
+    "main.a8a9f4c3.css.map": "/Arun-Portfolio-IT/static/css/main.a8a9f4c3.css.map",
+    "main.915f4477.js.map": "/Arun-Portfolio-IT/static/js/main.915f4477.js.map",
     "787.311f144a.chunk.js.map": "/Arun-Portfolio-IT/static/js/787.311f144a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b448dfc.css",
-    "static/js/main.bee27023.js"
+    "static/css/main.a8a9f4c3.css",
+    "static/js/main.915f4477.js"
   ]
 }
