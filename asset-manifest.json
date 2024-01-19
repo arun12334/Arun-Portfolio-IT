@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Arun-Portfolio-IT/static/css/main.a8a9f4c3.css",
-    "main.js": "/Arun-Portfolio-IT/static/js/main.915f4477.js",
+    "main.js": "/Arun-Portfolio-IT/static/js/main.253ff74c.js",
     "static/js/787.311f144a.chunk.js": "/Arun-Portfolio-IT/static/js/787.311f144a.chunk.js",
     "static/media/arun 04122023.pdf": "/Arun-Portfolio-IT/static/media/arun 04122023.763fdc585f7f9b9ec971.pdf",
     "index.html": "/Arun-Portfolio-IT/index.html",
     "main.a8a9f4c3.css.map": "/Arun-Portfolio-IT/static/css/main.a8a9f4c3.css.map",
-    "main.915f4477.js.map": "/Arun-Portfolio-IT/static/js/main.915f4477.js.map",
+    "main.253ff74c.js.map": "/Arun-Portfolio-IT/static/js/main.253ff74c.js.map",
     "787.311f144a.chunk.js.map": "/Arun-Portfolio-IT/static/js/787.311f144a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8a9f4c3.css",
-    "static/js/main.915f4477.js"
+    "static/js/main.253ff74c.js"
   ]
 }
